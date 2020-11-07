@@ -1,21 +1,22 @@
 {
   "files": {
-    "main.css": "/hospital-management-system-mern/static/css/main.1105da50.chunk.css",
-    "main.js": "/hospital-management-system-mern/static/js/main.a921b2b6.chunk.js",
-    "main.js.map": "/hospital-management-system-mern/static/js/main.a921b2b6.chunk.js.map",
+    "main.css": "/hospital-management-system-mern/static/css/main.21e2590e.chunk.css",
+    "main.js": "/hospital-management-system-mern/static/js/main.caf26316.chunk.js",
+    "main.js.map": "/hospital-management-system-mern/static/js/main.caf26316.chunk.js.map",
     "runtime-main.js": "/hospital-management-system-mern/static/js/runtime-main.061b7867.js",
     "runtime-main.js.map": "/hospital-management-system-mern/static/js/runtime-main.061b7867.js.map",
     "static/js/2.946f564b.chunk.js": "/hospital-management-system-mern/static/js/2.946f564b.chunk.js",
     "static/js/2.946f564b.chunk.js.map": "/hospital-management-system-mern/static/js/2.946f564b.chunk.js.map",
     "index.html": "/hospital-management-system-mern/index.html",
-    "static/css/main.1105da50.chunk.css.map": "/hospital-management-system-mern/static/css/main.1105da50.chunk.css.map",
+    "static/css/main.21e2590e.chunk.css.map": "/hospital-management-system-mern/static/css/main.21e2590e.chunk.css.map",
     "static/js/2.946f564b.chunk.js.LICENSE.txt": "/hospital-management-system-mern/static/js/2.946f564b.chunk.js.LICENSE.txt",
-    "static/media/hospital_logo.1bba7f9c.png": "/hospital-management-system-mern/static/media/hospital_logo.1bba7f9c.png"
+    "static/media/hospital_logo.1bba7f9c.png": "/hospital-management-system-mern/static/media/hospital_logo.1bba7f9c.png",
+    "static/media/image1.b69506b7.jpg": "/hospital-management-system-mern/static/media/image1.b69506b7.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.061b7867.js",
     "static/js/2.946f564b.chunk.js",
-    "static/css/main.1105da50.chunk.css",
-    "static/js/main.a921b2b6.chunk.js"
+    "static/css/main.21e2590e.chunk.css",
+    "static/js/main.caf26316.chunk.js"
   ]
 }
